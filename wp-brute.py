@@ -61,7 +61,7 @@ class AdvancedWPBruteforcer:
 ╚███╔███╔╝██║     ██║  ██║╚██████╔╝███████║██║     ███████╗███████║
  ╚══╝╚══╝ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚══════╝
 {Style.RESET_ALL}
-{self.colors['info']}WordPress Bruteforce Tool v1.0 | By Dras{self.colors['reset']}
+{self.colors['info']}WordPress Bruteforce Tool v1.0 | By red4x{self.colors['reset']}
 {self.colors['warning']}FOR LEGAL PENETRATION TESTING ONLY!{self.colors['reset']}
 """
         print(banner)
